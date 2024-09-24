@@ -48,8 +48,8 @@
         font-size: 2rem !important;
     }
 
-    footer img {
-        width: 75px;
+    footer .icon {
+        width: 25px;
     }
 
     footer p {
